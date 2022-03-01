@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://stellarserene.github.io/blog/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://stellarserene.github.io/blog/"/>
   <updated>2022-03-01T08:10:49.626Z</updated>
-  <id>http://example.com/</id>
+  <id>https://stellarserene.github.io/blog/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>serene_blog</title>
-    <link href="http://example.com/2022/03/01/serene-blog/"/>
-    <id>http://example.com/2022/03/01/serene-blog/</id>
+    <link href="https://stellarserene.github.io/blog/2022/03/01/serene-blog/"/>
+    <id>https://stellarserene.github.io/blog/2022/03/01/serene-blog/</id>
     <published>2022-03-01T08:10:49.000Z</published>
     <updated>2022-03-01T08:10:49.626Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/03/01/hello-world/"/>
-    <id>http://example.com/2022/03/01/hello-world/</id>
+    <link href="https://stellarserene.github.io/blog/2022/03/01/hello-world/"/>
+    <id>https://stellarserene.github.io/blog/2022/03/01/hello-world/</id>
     <published>2022-03-01T08:04:23.035Z</published>
     <updated>2022-03-01T10:46:56.126Z</updated>
     
