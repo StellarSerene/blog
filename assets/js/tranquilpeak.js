@@ -1236,7 +1236,7 @@
         // Swipe the sidebar to the left
         this.$sidebar.addClass('processing').removeClass('pushed processing');
         // go back to the default overflow
-        this.$body.css('overflow-x', 'auto');
+        //this.$body.css('overflow-x', 'auto');
       }
     },
 
