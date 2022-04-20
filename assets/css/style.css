@@ -9937,6 +9937,7 @@ a.fancybox {
   display: inline-block;
   vertical-align: top; }
   .post .post-header .post-title {
+    font-family: Times New Roman,宋体;
     margin: 0;
     word-break: initial;
     overflow: hidden; }
@@ -10216,6 +10217,7 @@ a.fancybox {
   .postShorten .postShorten-thumbnailimg {
     overflow: hidden; }
   .postShorten .postShorten-header .postShorten-title {
+    font-family: times new roman,宋体;
     margin: 0;
     word-break: initial;
     overflow: hidden; }
@@ -10241,6 +10243,7 @@ a.fancybox {
     text-rendering: optimizelegibility;
     letter-spacing: -0.3px;
     font-family: "Times New Roman", "宋体";
+    font-size: 18px;
     color: #5d686f;
     font-weight: 400;
     overflow: hidden;
